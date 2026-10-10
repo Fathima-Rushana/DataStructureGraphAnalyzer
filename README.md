@@ -16,10 +16,11 @@ complexity.
 ### Member 1
 - **Student Name:** JAF.Rushana
 - **Student ID:** 23DA2-0500
-- **Assigned Responsibility:** Array and Searching
+- **Assigned Responsibility:** Array, Searching and Main menu (integration)
 - **Individual Contribution:**
   - Implemented the ArrayOps class (insert, delete, search, display)
   - Implemented Linear Search and Binary Search with step counting and timing (Searching class)
+  - Implemented the main menu and integrated all components in Main.java
   - Tested the array and searching components with normal, empty and invalid inputs
   - Integrated the array and searching modules with the main application
 
@@ -46,12 +47,13 @@ complexity.
 ### Member 4
 - **Student Name:** NM.MUFEER
 - **Student ID:** 23DA2-1045
-- **Assigned Responsibility:** Graph, Performance Comparison and Main menu (integration)
+- **Assigned Responsibility:** Graph, Performance Comparison and Input validation
 - **Individual Contribution:**
   - Implemented the Graph class (adjacency list, add vertex, add edge, display)
   - Implemented BFS and DFS traversal with step counting
   - Implemented PerformanceAnalyzer (Linear vs Binary, BFS vs DFS comparison tables)
-  - Implemented the main menu, InputHelper (input validation) and system integration/testing
+  - Implemented InputHelper (input validation)
+  - Tested the graph and performance modules and integrated them with the main application
 
 ## Technologies Used
 - Java (JDK 11 or higher)
